@@ -18,6 +18,8 @@ These are the major screens, each provide specific insights
 
 This dashboard provides an interactive analysis of the correlation between various economic indicators, such as the Federal Repo rate and the unemployment rate, and their impact on different economic sectors including Information Technology, Healthcare, Energy, and more. Users can select specific indicators from a dropdown menu to visualize and analyze the trends.
 
+https://github.com/saipavankalyan/MarketLens-Service/assets/30022830/d72b111e-8f06-4e5b-91f0-9a3b9255bb55
+
 ### Insights
 
 The above walk through reveals several key insights during Covid-19(first half of 2020):
@@ -30,6 +32,8 @@ The above walk through reveals several key insights during Covid-19(first half o
 ### Risk vs Reward
 
 This dashboard provides comprehensive insights into the risk and reward profiles of various asset classes such as the S&P 500, Dow Jones, and cryptocurrencies. Users can select their target asset class and customize the granularity of the chart to view data on a monthly, quarterly, or yearly basis over a specified time period. The dashboard displays two key graphs: a reward graph based on asset growth and a risk graph based on the standard deviation of the asset class within the selected time period.
+
+https://github.com/saipavankalyan/MarketLens-Service/assets/30022830/be8b7a3b-3d60-42d7-a772-441d726976f4
 
 ### Insights
 
@@ -44,6 +48,8 @@ These insights help users understand the trade-offs between risk and reward for 
 
 This dashboard offers detailed insights into the performance of individual stocks over specified time periods, with the option to analyze data at monthly or quarterly granularities. Users can select specific stocks and time frames to visualize and compare their growth trajectories.
 
+https://github.com/saipavankalyan/MarketLens-Service/assets/30022830/c446fc97-a573-45b5-8302-8743faa84c48
+
 ### Insights
 
 The analysis highlights several key insights:
@@ -55,6 +61,8 @@ These insights allow users to delve into the performance metrics of high-perform
 ### Sector Contribution
 
 This dashboard provides insights into how the top-performing stocks contribute to the overall growth of their respective sectors over a specified time period. Users can select a sector and define the value of k (top 5 or top 10) to generate a chart illustrating the contributions of these leading stocks.
+
+https://github.com/saipavankalyan/MarketLens-Service/assets/30022830/5fe498cd-5deb-4365-a2ca-902299dfd5c3
 
 ### Insights
 
